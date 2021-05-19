@@ -2,8 +2,8 @@
 
 We entertain the idea that this planet is a living organism, a holistic system - made of many decentralised parts - that strives for balance and sustainability from chaos, in order to create symbiotic, more efficient and less intrusive forms of life.
 #
-**We value life over profit**
-In order to live in harmony with this planet, we will always **favour**:
+**We value life over profit**,
+in order to live in harmony with this planet, we will always **favour**:
 
 * **Building** on sovereign grade censorship resistant systems, offering data- and **self-sovereignty** for good actors, over centralised and censorable systems. 
 * **Creating a harmonious habitat**, blending in and supporting synergies with the environment, over elbow and zero sum games.
